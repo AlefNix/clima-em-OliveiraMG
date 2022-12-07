@@ -1,3 +1,16 @@
 .card.sombra{
     box-shadow:0 2px 15px -3px rgba(0, 0, 0, 0.593),0 10px 20px -2px rgba(0, 0, 0, 0.553) !important;
+    color: #ffffff !important;
+}
+#tempMax{
+    color: red;
+}
+#tempMin{
+    color: #0077ff;
+}
+#temperatura{
+    color: #ffffff !important;
+}
+#situacao{
+    color: #cbcbcb !important;
 }
